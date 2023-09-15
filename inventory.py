@@ -8,17 +8,20 @@ list_hostname = [
     # 호스트 이름 목록
 ]
 
-list_cpu = [
-]
-
 list_cpu_usage = [
     # 호스트별 CPU 사용률 데이터
 ]
 
-list_memory = [
+list_cpu = [
+    # 호스트별 CPU  데이터
 ]
+
 list_memory_usage = [
     # 호스트별 Memory 사용률 데이터
+]
+
+list_memory = [
+    # 호스트별 memory  데이터
 ]
 
 # 호스트 이름과 카테고리 매핑 정보
